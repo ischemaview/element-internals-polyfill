@@ -1,5 +1,5 @@
 {
-  "name": "element-internals-polyfill",
+  "name": "ischemaview-element-internals-polyfill",
   "version": "0.0.21",
   "description": "A polyfill for the element internals specification",
   "main": "dist/element-internals.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/calebdwilliams/element-internals-polyfill.git"
+    "url": "git+https://github.com/ischemaview/element-internals-polyfill.git"
   },
   "keywords": [
     "elementinternals",
@@ -33,12 +33,12 @@
     "forms",
     "polyfill"
   ],
-  "author": "Caleb D. Williams <caleb.d.williams@gmail.com>",
+  "author": "iSchemaView, Inc.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/calebdwilliams/element-internals-polyfill/issues"
+    "url": "https://github.com/ischemaview/element-internals-polyfill/issues"
   },
-  "homepage": "https://github.com/calebdwilliams/element-internals-polyfill#readme",
+  "homepage": "https://github.com/ischemaview/element-internals-polyfill#readme",
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.5",
